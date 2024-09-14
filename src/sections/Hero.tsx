@@ -37,7 +37,7 @@ function Hero() {
         <div className="mx-auto max-w-7xl justify-center px-8 md:px-12 lg:px-24">
           <div className="justify-center text-center lg:justify-start">
             <span className="inline-flex items-center pb-10 pt-20 text-lg font-medium">
-              The best fertility clinics trust wawa fertility
+              The best fertility app, mami fertility
             </span>
           </div>
         </div>
